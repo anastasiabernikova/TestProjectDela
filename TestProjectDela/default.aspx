@@ -18,7 +18,7 @@
             <br />
             <br />
             <br />
-            Selecteer een datum van minstens een jaar terug :<br />
+            Selecteer een datua van minstens een jaar terug :<br />
             <br />
             <asp:Calendar ID="Calendar1" runat="server" OnSelectionChanged="Calendar1_SelectionChanged1"></asp:Calendar>
             <br />
